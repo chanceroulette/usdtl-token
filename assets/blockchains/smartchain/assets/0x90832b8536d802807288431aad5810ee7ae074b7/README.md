@@ -32,4 +32,4 @@ USDT Lite è un token BEP20 ispirato a Tether (USDT), progettato per fornire una
 
 ## 🧾 Documentazione
 
-- Whitepaper: in arrivo
+- Whitepaper: inline
