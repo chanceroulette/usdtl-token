@@ -9,7 +9,7 @@ USDT Lite è un token BEP20 ispirato a Tether (USDT), progettato per fornire una
 - **Symbol:** USDTL
 - **Standard:** BEP-20
 - **Decimali:** 18
-- **Contratto Smart:** [0x90832b8536d802807288431aad5810ee7ae074b7](https://bscscan.com/token/0x90832b8536d802807288431aad5810ee7ae074b7)
+- **Contratto Smart:** [0x90832b8536D802807288431AAd5810Ee7Ae074b7](https://bscscan.com/token/0x90832b8536D802807288431AAd5810Ee7Ae074b7)
 - **Sito Ufficiale:** [https://usdtl.finance](https://usdtl.finance)
 
 ## 🔥 Caratteristiche principali
@@ -22,9 +22,9 @@ USDT Lite è un token BEP20 ispirato a Tether (USDT), progettato per fornire una
 
 ## 🧭 Link utili
 
-- 💱 [Scambia su PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x90832b8536d802807288431aad5810ee7ae074b7)
-- 📊 [Grafico su DexScreener](https://dexscreener.com/bsc/0x90832b8536d802807288431aad5810ee7ae074b7)
-- 🔍 [Visualizza su BscScan](https://bscscan.com/token/0x90832b8536d802807288431aad5810ee7ae074b7)
+- 💱 [Scambia su PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x90832b8536D802807288431AAd5810Ee7Ae074b7)
+- 📊 [Grafico su DexScreener](https://dexscreener.com/bsc/0x90832b8536D802807288431AAd5810Ee7Ae074b7)
+- 🔍 [Visualizza su BscScan](https://bscscan.com/token/0x90832b8536D802807288431AAd5810Ee7Ae074b7)
 
 ## ✉️ Contatti
 
